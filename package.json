@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "socket.io-client": "^4.6.1"
+  },
+  "name": "socket-chat-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "socket-setup.js",
+  "scripts": {
+    "start": "node ./socket-setup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
